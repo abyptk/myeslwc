@@ -7,6 +7,10 @@
     {
       "path": "./es-base-styles",
       "default": true
+    },
+    {
+      "path": "./es-space-mgmt",
+      "default": false
     }
   ],
   "namespace": "",
